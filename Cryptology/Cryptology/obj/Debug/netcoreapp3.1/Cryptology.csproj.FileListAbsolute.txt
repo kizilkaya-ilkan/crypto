@@ -1,0 +1,16 @@
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\bin\Debug\netcoreapp3.1\Cryptology.exe
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\bin\Debug\netcoreapp3.1\Cryptology.deps.json
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\bin\Debug\netcoreapp3.1\Cryptology.runtimeconfig.json
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\bin\Debug\netcoreapp3.1\Cryptology.runtimeconfig.dev.json
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\bin\Debug\netcoreapp3.1\Cryptology.dll
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\bin\Debug\netcoreapp3.1\Cryptology.pdb
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.csprojAssemblyReference.cache
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.Form1.resources
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.Properties.Resources.resources
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.csproj.GenerateResource.cache
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.AssemblyInfoInputs.cache
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.AssemblyInfo.cs
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.csproj.CoreCompileInputs.cache
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.dll
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.pdb
+D:\Ders Notlarım\Yazılım\Cryptology\Cryptology\obj\Debug\netcoreapp3.1\Cryptology.genruntimeconfig.cache
